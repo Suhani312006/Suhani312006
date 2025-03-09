@@ -20,10 +20,8 @@ I’m passionate about **solving real-world problems** with **technology**. Whet
 
 ## 📂 **Skills & Technologies**
 
-- **Languages**: Python, JavaScript, C++, HTML, CSS  
-- **Web Development**: React, Node.js, Express, Bootstrap  
-- **AI & ML**: TensorFlow, Scikit-learn, OpenCV  
-- **Tools**: Git, GitHub, VS Code, Azure, Firebase  
+- **Languages**: Python, JavaScript, C, C++, HTML, CSS     
+- **Tools**: Git, GitHub, VS Code
 
 ---
 
