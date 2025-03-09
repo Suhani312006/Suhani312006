@@ -40,9 +40,8 @@ I’m passionate about **solving real-world problems** with **technology**. Whet
 
 I love collaborating and sharing knowledge! Feel free to reach out to discuss projects, innovations, or just to exchange ideas.
 
-- 📬 [LinkedIn](https://www.linkedin.com/in/suhani-tatte) *(Replace with your actual LinkedIn URL)*
-- 🐦 [Twitter](https://twitter.com/suhani_tatte) *(Replace with your actual Twitter URL)*
-- 🌍 [GitHub](https://github.com/suhani-tatte) *(Replace with your actual GitHub URL)*
+- 📬 [LinkedIn](https://www.linkedin.com/in/suhani-tatte) https://www.linkedin.com/in/suhani-tatte-a19660273?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- 🌍 [GitHub](https://github.com/suhani-tatte) https://github.com/Suhani312006
 
 ---
 
