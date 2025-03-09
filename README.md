@@ -6,10 +6,9 @@ I'm a **second-year Computer Science and Engineering (CSE) student** at **GH Rai
 
 ## 🚀 **What I Do**  
 
-- 🌐 **Web Development**: Building interactive websites and web apps using **HTML**, **CSS**, **JavaScript**, and **React**  
+- 🌐 **Web Development**: Building interactive websites and web apps using **HTML**, **CSS**, and **JavaScript**
 - 🤖 **AI & Machine Learning**: Exploring the impact of **AI** on technology and diving into **ML models**  
 - 💡 **Tech Innovator**: Creating **innovative solutions** and collaborating on **real-world tech projects**  
-- 🔧 **Continuous Learning**: Gaining hands-on experience with **Python**, **Node.js**, and modern technologies
 
 ---
 
