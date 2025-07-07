@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Suhani Tatte**!
 
-I'm a **second-year Computer Science and Engineering (CSE) student** at **GH Raisoni College of Engineering and Management**, Nagpur. Passionate about **Web Development**, **Artificial Intelligence (AI)**, and creating **real-world solutions**, I enjoy bringing my ideas to life through technology. I'm also an active member of **IEEE** and a **Microsoft Student Ambassador**.
+I'm a **third-year Computer Science and Engineering (CSE) student** at **G. H. Raisoni College of Engineering and Management**, Nagpur. Passionate about **Web Development**, **Artificial Intelligence (AI)**, and creating **real-world solutions**, I enjoy bringing my ideas to life through technology. I'm also an active member of **IEEE** and a **Microsoft Student Ambassador**.
 
 ---
 
@@ -20,8 +20,8 @@ I’m passionate about **solving real-world problems** with **technology**. Whet
 
 ## 📂 **Skills & Technologies**
 
-- **Languages**: Python, JavaScript, C, C++, HTML, CSS     
-- **Tools**: Git, GitHub, VS Code
+- **Languages**: Python, JavaScript, C, C++, Java, HTML, CSS     
+- **Tools**: Git, GitHub, VS Code, MySQL
 
 ---
 
